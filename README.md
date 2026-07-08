@@ -1,27 +1,40 @@
-# Hi there, I'm [Thanakrit Sarbam] 👋
-
-### [ตำแหน่งงาน เช่น Full-Stack Developer / Data Analyst]
-📍 มหาสารคาม, ประเทศไทย 
-
----
-
-## 🚀 เกี่ยวกับฉัน (About Me)
-- 🔭 ปัจจุบันฉันกำลังทำโปรเจกต์เกี่ยวกับ: อาหารแมว
-- 🌱 ตอนนี้กำลังศึกษาเพิ่มเติมเรื่อง: กาแฟ
-- 💬 สามารถสอบถามฉันได้ในเรื่อง: เล่นกีฬา
-- 📫 ช่องทางการติดต่อ: 67010918103@msu.ac.th
+# Hi there, I'm Thanakrit Saebram 👋
+### 🎓 Student at Mahasarakham University
+📍 Maha Sarakham, Thailand
 
 ---
 
-## 🛠 ทักษะของฉัน (Tech Stack)
+## 👤 ข้อมูลส่วนตัว (About Me)
+- **ชื่อ-นามสกุล:** ธนกฤต แสบรัมย์ (Thanakrit Saebram)
+- **รหัสนิสิต:** 67010918103
+- **สาขา:** DBIS672 (Business Intelligence and Data Analytics / สารสนเทศทางธุรกิจและวิเคราะห์ข้อมูล)
+- **🔭 ปัจจุบันกำลังศึกษาเกี่ยวกับ:** ระบบฐานข้อมูล, การวิเคราะห์ข้อมูล (Data Analytics) และเทคโนโลยีสารสนเทศ
+- **🌱 ตอนนี้กำลังฝึกฝนเรื่อง:** SQL, Python และการจัดการโครงสร้างระบบ Cloud/Virtualization
 
-### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-### 🗄️ Databases & Tools
+## 🛠 ทักษะที่สนใจและกำลังศึกษา (My Tech Stack)
+
+### 📊 Data & Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 สถิติ GitHub ของฉัน (GitHub Stats)
+*(อย่าลืมเปลี่ยนคำว่า YOUR-GITHUB-USERNAME เป็นชื่อ GitHub ของคุณนะครับ)*
+
+| GitHub Stats | Top Languages |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" width="400px"/> |
+
+---
+
+📬 **ช่องทางการติดต่อ:** 
+- **GitHub:** [ลิงก์โปรไฟล์ของคุณ]
+- **Email:** 67010918103@msu.ac.th
